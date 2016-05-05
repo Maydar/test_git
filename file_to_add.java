@@ -21,7 +21,11 @@ public class User {
      */
     public String getDbConnection() throws Exception {
 
+<<<<<<< HEAD
         return "connectionObject123";
+=======
+        return "connectionObjectdsadsa";
+>>>>>>> feature_branch
     }
 
     /**
