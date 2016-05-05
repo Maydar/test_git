@@ -21,7 +21,7 @@ public class User {
      */
     public String getDbConnection() throws Exception {
 
-        return "connectionObject";
+        return "connectionObject123";
     }
 
     /**
